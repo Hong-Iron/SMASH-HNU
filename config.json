@@ -20,5 +20,22 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "56주년 기념관": {
+      "style": "concrete",
+      "wall": "#c8d4d8",
+      "glass": "#1e3550",
+      "frame": "#9aa4aa"
+    },
+    "본관": {
+      "style": "brick",
+      "wall": "#9a6a58",
+      "glass": "#3a4450",
+      "frame": "#e6e2da",
+      "hip": true,
+      "roof": "#3c4248"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
